@@ -5,3 +5,5 @@ distribution associated with a state transition probability matrix.
 
 I always misplace this and end up rewriting it from scratch, so I'm 
 putting it on github so I don't lose it. If you find it useful, great.
+
+See the example for an illustration of how to use the method.
